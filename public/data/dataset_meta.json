@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "1.0.1",
+  "sourceType": "osm",
+  "metadata": {
+    "studyArea": "Zona piloto Catacaos, Piura, Perú",
+    "bbox": [
+      -80.6815,
+      -5.2685,
+      -80.6665,
+      -5.2545
+    ],
+    "center": [
+      -80.67417,
+      -5.26167
+    ],
+    "roadsSource": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright",
+    "riskSource": "Polígonos ilustrativos de aniego, no provienen de mediciones ni mapas oficiales",
+    "generatedAt": "2026-10-23T15:56:05.693910+00:00",
+    "warning": "Simulación educativa de SYNAPSE. Inundaciones y cierres hipotéticos; no es un mapa oficial, alerta ni ruta segura de evacuación."
+  }
+}

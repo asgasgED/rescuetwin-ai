@@ -1,0 +1,47 @@
+[
+  {
+    "id": "indeci_plan",
+    "title": "INDECI — Plan Familiar de Emergencia (IUEAO)",
+    "url": "https://www.gob.pe/institucion/indeci/campa%C3%B1as/44185-plan-familiar-de-emergencia",
+    "facts": [
+      "El plan familiar comprende identificar riesgos y recursos, ubicar zonas seguras y rutas oficiales, elaborar medidas y un kit, asignar roles y practicar simulacros.",
+      "Es necesario considerar y apoyar a miembros con necesidades de atención prioritaria."
+    ]
+  },
+  {
+    "id": "indeci_nino",
+    "title": "INDECI — Preparados ante el fenómeno El Niño",
+    "url": "https://www.gob.pe/institucion/indeci/campa%C3%B1as/143492-preparados-ante-el-fenomeno-el-nino",
+    "facts": [
+      "Ante inundaciones, no cruzar ríos, quebradas ni zonas cubiertas por agua; mantenerse informado de comunicaciones oficiales.",
+      "Revisar el plan familiar y conocer las rutas y puntos identificados por las autoridades; apoyar a personas con limitaciones."
+    ]
+  },
+  {
+    "id": "indeci_preparacion",
+    "title": "INDECI — Cómo elaborar tu Plan Familiar de Emergencia",
+    "url": "https://www.gob.pe/10165-plan-familiar-de-emergencia",
+    "facts": [
+      "Mantener las salidas de la vivienda libres de obstáculos, acordar roles y un responsable de la mochila de emergencia.",
+      "Identificar zonas seguras y practicar simulacros familiares."
+    ]
+  },
+  {
+    "id": "indeci_lluvias",
+    "title": "INDECI — Recomendaciones ante lluvias intensas (2026)",
+    "url": "https://www.gob.pe/institucion/indeci/noticias/1369382-indeci-brinda-recomendaciones-ante-temporada-de-lluvias-intensas",
+    "facts": [
+      "No cruzar cauces, quebradas o zonas inundadas y seguir indicaciones de autoridades locales.",
+      "Preparar un plan familiar, identificar áreas alejadas del riesgo y acordar medios comunitarios de alerta."
+    ]
+  },
+  {
+    "id": "pcm_inundacion",
+    "title": "Gobierno del Perú — Recomendaciones ante inundaciones",
+    "url": "https://www.gob.pe/37568-recomendaciones-ante-inundaciones",
+    "facts": [
+      "Prever el cuidado y protección de mascotas o animales domésticos.",
+      "No cruzar áreas inundadas ni exponerse para registrar imágenes; atender a alertas y mensajes de autoridades."
+    ]
+  }
+]

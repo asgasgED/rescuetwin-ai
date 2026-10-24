@@ -1,0 +1,13 @@
+{
+  "normal": {
+    "blockedRoadIds": [],
+    "description": "Condiciones normales modeladas"
+  },
+  "blocked": {
+    "blockedRoadIds": [
+      "osm_242427098_75",
+      "osm_48056484_4"
+    ],
+    "description": "Cierre hipotético de tramos; no representa un evento medido"
+  }
+}

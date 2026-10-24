@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "placeId": "home_01",
+        "kind": "home",
+        "label": "Hogar ficticio 01",
+        "simulated": true,
+        "nodeId": "2499016340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6774312,
+          -5.2602491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "placeId": "home_02",
+        "kind": "home",
+        "label": "Hogar ficticio 02",
+        "simulated": true,
+        "nodeId": "4774574695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.678707,
+          -5.2618917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "placeId": "home_03",
+        "kind": "home",
+        "label": "Hogar ficticio 03",
+        "simulated": true,
+        "nodeId": "9669319615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6783074,
+          -5.2648255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "placeId": "meeting_01",
+        "kind": "meeting",
+        "label": "Punto de encuentro ilustrativo",
+        "simulated": true,
+        "nodeId": "610956260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6743638,
+          -5.261821
+        ]
+      }
+    }
+  ]
+}

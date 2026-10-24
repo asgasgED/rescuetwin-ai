@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "riskLevel": "high",
+        "sourceType": "illustrative",
+        "label": "Aniego hipotético 1 (no validado)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.6767354,
+              -5.2599105
+            ],
+            [
+              -80.6769473,
+              -5.2599988
+            ],
+            [
+              -80.676905,
+              -5.2601004
+            ],
+            [
+              -80.6766931,
+              -5.2600121
+            ],
+            [
+              -80.6767354,
+              -5.2599105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "riskLevel": "high",
+        "sourceType": "illustrative",
+        "label": "Aniego hipotético 2 (no validado)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.6747596,
+              -5.2627794
+            ],
+            [
+              -80.6748132,
+              -5.2629795
+            ],
+            [
+              -80.674707,
+              -5.2630079
+            ],
+            [
+              -80.6746534,
+              -5.2628078
+            ],
+            [
+              -80.6747596,
+              -5.2627794
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

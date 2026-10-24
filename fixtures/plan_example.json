@@ -1,0 +1,24 @@
+{
+  "title": "Plan familiar educativo — escenario de vía bloqueada",
+  "summary": "Ejemplo de estructura JSON para una familia con un niño y una persona adulta mayor; no acredita una generación real por LLM.",
+  "before": [
+    "Consultar fuentes oficiales y acordar un punto de encuentro familiar.",
+    "Preparar documentos y medios de comunicación esenciales."
+  ],
+  "during": [
+    "Seguir alertas y órdenes de autoridades competentes.",
+    "No ingresar a vías inundadas ni asumir que una ruta simulada es segura."
+  ],
+  "kit": [
+    "Agua potable",
+    "Linterna y batería",
+    "Medicamentos habituales y elementos de primera necesidad"
+  ],
+  "sources": [
+    {
+      "title": "INDECI — Portal institucional",
+      "url": "https://www.gob.pe/indeci"
+    }
+  ],
+  "disclaimer": "EJEMPLO DE CONTRACT TEST, NO RESPUESTA REAL DE IA. La herramienta es educativa y no reemplaza a autoridades ni valida rutas."
+}

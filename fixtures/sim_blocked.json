@@ -1,0 +1,192 @@
+{
+  "scenario": "blocked",
+  "originId": "home_01",
+  "destinationId": "meeting_01",
+  "roads": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "roadId": "r_ab",
+          "lengthM": 111,
+          "simulated": true
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -80.632,
+              -5.195
+            ],
+            [
+              -80.631,
+              -5.195
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "roadId": "r_bc",
+          "lengthM": 111,
+          "simulated": true
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -80.631,
+              -5.195
+            ],
+            [
+              -80.63,
+              -5.195
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "roadId": "r_ad",
+          "lengthM": 111,
+          "simulated": true
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -80.632,
+              -5.195
+            ],
+            [
+              -80.632,
+              -5.194
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "roadId": "r_de",
+          "lengthM": 222,
+          "simulated": true
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -80.632,
+              -5.194
+            ],
+            [
+              -80.63,
+              -5.194
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "roadId": "r_ec",
+          "lengthM": 111,
+          "simulated": true
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -80.63,
+              -5.194
+            ],
+            [
+              -80.63,
+              -5.195
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "riskZones": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "riskLevel": "high",
+          "sourceType": "illustrative",
+          "label": "Zona de riesgo ilustrativa, no oficial"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -80.63145,
+                -5.1954
+              ],
+              [
+                -80.6305,
+                -5.1954
+              ],
+              [
+                -80.6305,
+                -5.1948
+              ],
+              [
+                -80.63145,
+                -5.1948
+              ],
+              [
+                -80.63145,
+                -5.1954
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "blockedRoadIds": [
+    "r_bc"
+  ],
+  "route": {
+    "type": "Feature",
+    "properties": {
+      "kind": "route",
+      "scenario": "blocked"
+    },
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          -80.632,
+          -5.195
+        ],
+        [
+          -80.632,
+          -5.194
+        ],
+        [
+          -80.63,
+          -5.194
+        ],
+        [
+          -80.63,
+          -5.195
+        ]
+      ]
+    }
+  },
+  "routeDistanceM": 444,
+  "warning": "Escenario ilustrativo. Ruta calculada en grafo de demostración; no es una ruta segura de evacuación ni información oficial.",
+  "provenance": {
+    "roads": "Grafo de ejemplo generado para SYNAPSE; no representa vías reales de Piura",
+    "riskZones": "Polígono de riesgo HIPOTÉTICO solo para demostrar capas, no oficial"
+  }
+}

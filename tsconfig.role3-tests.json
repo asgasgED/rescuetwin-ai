@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": [
+      "ES2022",
+      "DOM"
+    ],
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "strict": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "rootDir": "./src",
+    "outDir": "./.role3-test-build",
+    "noEmitOnError": true
+  },
+  "include": [
+    "src/types/plan.ts",
+    "src/lib/ai.ts",
+    "src/lib/plan-validation.ts",
+    "src/lib/sources.ts",
+    "src/app/api/plan/route.ts",
+    "tests/node-globals.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "tools",
+    "**/*.test.ts"
+  ]
+}
